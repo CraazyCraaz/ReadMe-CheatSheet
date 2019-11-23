@@ -26,7 +26,7 @@ Size preview for a `Heading 3`
 You can use a blackslash `\` before an asterisk `*` if you want to show it rather than use it to creat a list\
 You can also use a backslash `\` to seperate paragraph lines without a space when placed at the end of a sentence
 
-To `highlight` a word, surround it with backticks (**HINT/HELP**, the backtick is the \` on the tilde `~` key)\
+To `highlight` a word, surround it with backticks (**HINT/HELP**), the backtick is the \` on the tilde `~` key)\
 I'm not 100% if this is its true purpose, but it was one of those moments of `my code works and I don't know why` so I'm keeping it as is
 
     If you tab in once, you get this lovely effect.
