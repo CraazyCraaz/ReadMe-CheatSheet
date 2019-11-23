@@ -4,7 +4,7 @@ My first `README.md`\
 Please read the information below if you would like to see how to add content to your `README.md` file while making it look dope\
 I have found that if you open both the `README.md` and open a `preview` side by side, it is easier to read along and see what / how to edit your `README.md`
 
-## Heading 1
+# Heading 1 ... Again
 Use **#** followed by a space and then your title to create a `Heading 1`
 
 * Additionally, H1's have a horizontal line between the heading and the following content
